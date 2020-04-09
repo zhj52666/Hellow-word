@@ -1,2 +1,2 @@
-# Hellow-word
-This is a new project
+# 很高兴来到GitHub
+大家多多关照，谢谢！
